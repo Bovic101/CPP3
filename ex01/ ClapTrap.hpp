@@ -6,7 +6,7 @@
 /*   By: vodebunm <vodebunm@student.42heilbronn.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/11/29 17:36:54 by vodebunm          #+#    #+#             */
-/*   Updated: 2024/11/29 17:52:58 by vodebunm         ###   ########.fr       */
+/*   Updated: 2024/11/29 19:57:27 by vodebunm         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@
 #include <iostream>
 
 class ClapTrap {
-private:
+protected:
     std::string _Name;
     int _hitpoint;
     int _energypoint;
