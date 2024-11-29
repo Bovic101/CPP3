@@ -1,7 +1,7 @@
 NAME = claptrap
 
 # Source file for the project
-SRC = main.cpp ClapTrap.cpp
+SRC = main.cpp ClapTrap.cpp ScavTrap
 
 # Object files will be derived from the source files
 OBJ = $(SRC:.cpp=.o)
