@@ -1,4 +1,4 @@
-NAME = claptrap
+NAME = fragtrap
 
 # Source file for the project
 SRC = main.cpp ClapTrap.cpp FragTrap.cpp
